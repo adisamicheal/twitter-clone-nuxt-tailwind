@@ -1,0 +1,54 @@
+@font-face {
+    font-family: "SF Pro Display Italic";
+    src: local("SF Pro Display Italic") url(~assets/fonts/SFPRODISPLAYBLACKITALIC.OTF);
+}
+@font-face {
+    font-family: "SF Pro Display Bold";
+    src: local("SF Pro Display Bold") url(~assets/fonts/SFPRODISPLAYBOLD.OTF);
+}
+@font-face {
+    font-family: "SF Pro Display Heavy Italic";
+    src: local("SF Pro Display Heavy Italic") url(~assets/fonts/SFPRODISPLAYHEAVYITALIC.OTF);
+}
+@font-face {
+    font-family: "SF Pro Display Light Italic";
+    src: local("SF Pro Display Light Italic") url(~assets/fonts/SFPRODISPLAYLIGHTITALIC.OTF);
+}
+@font-face {
+    font-family: "SF Pro Display Medium";
+    src: local("SF Pro Display Medium") url(~assets/fonts/SFPRODISPLAYMEDIUM.OTF);
+}
+@font-face {
+    font-family: "SF Pro Display Regular";
+    src: local("SF Pro Display Regular") url(~assets/fonts/SFPRODISPLAYREGULAR.OTF);
+}
+@font-face {
+    font-family: "SF Pro Display Bold Italic";
+    src: local("SF Pro Display Bold Italic") url(~assets/fonts/SFPRODISPLAYSEMIBOLDITALIC.OTF);
+}
+@font-face {
+    font-family: "SF Pro Display Thin Italic";
+    src: local("SF Pro Display Thin Italic") url(~assets/fonts/SFPRODISPLAYTHINITALIC.OTF);
+}
+@font-face {
+    font-family: "SF Pro Display Ultra Light Italic";
+    src: local("SF Pro Display Ultra Light Italic") url(~assets/fonts/SFPRODISPLAYULTRALIGHTITALIC.OTF);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #000;
+    color: #fff;
+}
+
+.text-grey {
+    font-style: normal;
+    font-weight: 300;
+    line-height: 16px;
+    color: #6E767D;
+}
+.bg-grey-2 {
+    background-color: #202327;
+}
